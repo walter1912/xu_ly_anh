@@ -1,0 +1,16 @@
+::root {
+    --Black: rgb(0, 0, 0);
+    --White: rgb(255, 255, 255);
+    --Red: rgb(255, 0, 0);
+    --Green: rgb(0, 255, 0);
+    --Blue: rgb(0, 0, 255);
+    --Aqua: rgb(0, 255, 255);
+    --Fuchsia: rgb(255, 0, 255);
+    --Maroon: rgb(128, 0, 0);
+    --Navy: rgb(0, 0, 128);
+    --Olive: rgb(128, 128, 0);
+    --Purple: rgb(128, 0, 128);
+    --Teal: rgb(0, 128, 128);
+    --Yellow: rgb(255, 255, 0);
+
+}
